@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+.reloj{
+    color: rgb(14, 123, 22);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    font-size: 60px;
+    font-family: fantasy;
+    letter-spacing: 7px;
+}
